@@ -1,0 +1,70 @@
+/*TAG SELECTORS*/
+body {
+  margin: 0 10%;
+  font-family: 'Spartan', sans-serif;
+  font-weight: 400;
+  font-size: .9375rem;
+}
+
+h1 {
+  color: #502050;
+  font-weight: 700;
+  display: inline-block;
+  margin: 0;
+}
+img {
+  border-radius: 50px;
+  width: 50px;
+  float: left;
+}
+
+/*CLASS*/
+.intro {
+  color: #937B92;
+  display: inline-block;
+  width: 40%;
+  margin-bottom: 5%;
+  position: relative;
+  top: 10%;
+  vertical-align: top;
+}
+
+.customer-div {}
+
+.customers {
+  border-radius: 10px;
+  color:white;
+  width: 24%;
+  display: inline-block;
+  background-color: #502050;
+  padding: 2%;
+  margin: 2%;
+}
+
+.five-stars {
+  border-radius: 5px;
+  color: #502050;
+  background-color: #F7F2F7;
+  font-weight: 700;
+  padding: 2% 2% 2% 5%;
+  margin-bottom: 5%;
+}
+
+.five-star-div {
+  display: inline-block;
+  position: relative;
+  left: 10%;
+  vertical-align: top;
+  width: 40%;
+}
+.five-star-text {
+  display: inline-block;
+  margin-left: 10px;
+}
+.intro-five {
+  margin: 5% 0;
+}
+.name-title {
+position: relative;
+left: 7%
+}
